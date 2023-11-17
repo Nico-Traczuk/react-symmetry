@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.logo-title {
+  font-family: 'Big Shoulders Display', sans-serif;
+}
+
+
+.font {
+  font-family: 'Wix Madefor Text', sans-serif;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#root.main {
+  max-width: unset;
+}
